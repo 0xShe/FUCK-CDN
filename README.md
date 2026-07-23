@@ -296,7 +296,6 @@ VIRUSTOTAL_KEY     = "你的Key"
 
 ## 实战截图
 
-<!-- 在下方放你的实战截图，取消注释并替换路径即可 -->
 
 ### 案例一
 
@@ -305,18 +304,6 @@ VIRUSTOTAL_KEY     = "你的Key"
 
 
 ---
-
-## 项目结构
-
-```
-FUCK-CDN/
-├── .claude/
-│   └── skills/
-│       └── fuck-cdn.md    # 核心技能文件（1310 行）
-├── screenshots/                    # 实战截图目录
-├── 过程.md                         # 实战溯源过程记录（示例）
-└── README.md
-```
 
 ---
 
