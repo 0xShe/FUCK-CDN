@@ -293,6 +293,6 @@ FUCK-CDN/
 
 ---
 
-## License
+## 联系方式
 
-MIT
+作者：0xShe 公众号：安全社 官网：sbbbb.cn
